@@ -1,4 +1,4 @@
-Copyright © [2024] [Codex Melo? VMS Dragon]
+Copyright © [2024] [Codex Melo/ VMS Dragon]
 
 Todos os direitos reservados. Este código-fonte é propriedade de [Seu Nome] e não pode ser copiado, modificado ou redistribuído sem autorização prévia por escrito.
 
