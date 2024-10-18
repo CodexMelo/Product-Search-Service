@@ -1,3 +1,19 @@
+Copyright © [2024] [Codex Melo? VMS Dragon]
+
+Todos os direitos reservados. Este código-fonte é propriedade de [Seu Nome] e não pode ser copiado, modificado ou redistribuído sem autorização prévia por escrito.
+
+O banco de dados que contém informações sobre lojas físicas é editável, e você pode usar os dados de acordo com os termos estabelecidos neste repositório.
+
+Esta licença entra em vigor a partir da data de publicação do código.
+
+
+
+
+
+
+
+
+
 Licença de Uso do Product Search Service
 1. Aceitação da Licença
 Ao baixar, instalar ou utilizar o Product Search Service ("Serviço"), você concorda em cumprir os termos desta Licença. Se não concordar, não utilize o Serviço.
